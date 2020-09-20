@@ -1,5 +1,5 @@
-# MR-666
-Dark-Fb No Login 100% safe
+
+HACK FB No Login 100% safe
 <img src="https://github.com/BOT-033/Sensei/blob/master/Screenshot_2020-07-16-00-13-54-17.jpg">
 # Module
 ```
@@ -9,7 +9,7 @@ Dark-Fb No Login 100% safe
 ```
 # Install
 ```
-• git clone https://github.com/BOT-033/Sensei
-• cd Sensei
-• python2 main.py
+• git clone https://github.com/MR-05/HACKINGFACEBOOK
+• cd hacking fb
+• python2 HACKINGF.PY
 ```
